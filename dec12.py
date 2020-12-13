@@ -40,9 +40,7 @@ print(man_dist[0])
 sOri = np.array([[1], [0]])
 sPos = np.array([[0], [0]])
 pos = sPos.copy()
-orient = sOri.copy()
-sWP = np.array([[10], [1]])
-wPos = sWP.copy()
+wPos = np.array([[10], [1]]).copy()
 
 for l in data:
     if l[0] == "N":
