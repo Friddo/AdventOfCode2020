@@ -7,7 +7,7 @@ Solutions to [Advent Of Code 2020](https://www.adventofcode.com/)
 
 ## Days
 
-[Day 01: Report Repair](https://adventofcode.com/2020/day/1)
+[Day 01: Report Repair](https://adventofcode.com/2020/day/1) \n
 [Day 02: Password Philosophy](https://adventofcode.com/2020/day/2)
 [Day 03: Toboggan Trajectory](https://adventofcode.com/2020/day/3)
 [Day 04: Passport Processing](https://adventofcode.com/2020/day/4)
